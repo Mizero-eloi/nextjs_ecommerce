@@ -24,6 +24,9 @@ a {
 .layout {
   padding: 10px 100px;
 }
+.pointer {
+  cursor: pointer;
+}
 
 .navbar-container {
   display: flex;
